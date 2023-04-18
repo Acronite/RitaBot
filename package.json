@@ -43,7 +43,7 @@
     "discord.js": "^11.6.4",
     "dotenv": "^8.2.0",
     "google-translate-api": "github:RitaBot-Project/google-translate-api",
-    "iso-639-1": "^2.1.4",
+    "iso-639-1": "^2.1.15",
     "lodash": "^4.17.20",
     "make-dir": "^3.1.0",
     "pg": "^8.4.1",
