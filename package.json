@@ -50,7 +50,7 @@
     "pg-hstore": "^2.3.3",
     "seconds-converter": "github:AlooAkbar/seconds-converter",
     "sequelize": "^6.3.5",
-    "sqlite3": "^5.0.0",
+    "sqlite3": "^5.1.7",
     "webhook-discord": "^3.7.7",
     "path": "^0.12.7"
   },
